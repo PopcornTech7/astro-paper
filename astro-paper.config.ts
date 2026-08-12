@@ -8,7 +8,7 @@ export default defineAstroPaperConfig({
     author: "Cloud",
     profile: "https://你的主页（或留空字符串）",
     ogImage: "default-og.jpg",
-    lang: "zh-CN",            // 改成中文
+    lang: "en",            // 改成中文
     timezone: "Asia/Shanghai",
     dir: "ltr",
   },
