@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://你的项目名.pages.dev/",   // 先留着，部署后换成真实地址
+    url: "https://cloud2026-blog.pages.dev/",   // 我的网站地址
     title: "Cloud's Blog",
     description: "我的个人分享博客",
     author: "Cloud",
-    profile: "https://你的主页（或留空字符串）",
+    profile: "", //先空着
     ogImage: "default-og.jpg",
     lang: "en",            // 改成中文
     timezone: "Asia/Shanghai",
