@@ -2,36 +2,8 @@
 title: "About"
 description: "A bit about me and this blog."
 ---
+哈喽，欢迎访问我的个人博客，或许每次欢迎的都是我自己，我想应该没人知道这个地址🤔。我是一个不专业的技术爱好者，但是很开心可以在这里分享一些自己的心情和想法。我向往自由，无为而治，喜欢顺其自然，在纷乱复杂的世界中可以寻找到平衡点，找到自己的合适的位置。希望这些信息可以被一直保存，多年之后看到这些记录的内容也会唤起我的美好回忆。
+祝好，一切顺利！
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
-
-![Astro Paper](@/assets/images/astropaper-og.jpg)
-
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
-
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
-
-## Features
-
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Hey there, welcome to my personal blog — though honestly, I'm probably just welcoming myself every time. I doubt anyone else even knows this address exists 🤔.I'm not exactly a professional when it comes to tech, more of an enthusiastic amateur — but I'm really glad to have this little corner to share some thoughts and feelings. I'm drawn to freedom. I believe in letting things be and going with the flow — finding that sweet spot of balance in a messy, complicated world, and settling into a place that feels right for me. I hope these words stick around, so that years from now, stumbling back upon these records will bring back some warm memories.
+Wishing you well. All the best!
