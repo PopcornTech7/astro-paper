@@ -26,7 +26,7 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github", url: "https://github.com/PopcornTech7" },
-    { name: "mail",   url: "mailto:cloudlist@163.com" },
+    { name: "mail",   url: "mailto:cloudlist2026@163.com" },
     // 用不到的社交账号整行删掉即可，比如下面这行：
     // { name: "x", url: "https://x.com/username" },
   ],
