@@ -6,7 +6,7 @@ export default defineAstroPaperConfig({
     title: "Cloud's Blog",
     description: "我的个人分享博客",
     author: "Cloud",
-    profile: "", //先空着
+    profile: "一个向往自由、顺其自然的技术爱好者。", 
     ogImage: "default-og.jpg",
     lang: "en",            // 改成中文
     timezone: "Asia/Shanghai",
